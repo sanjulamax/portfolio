@@ -174,18 +174,18 @@ I have successfully enhanced my skills and knowledge through various certificati
                         <br></br><br></br>
  <div className='flex '> <div className='ml-[10%]'>                     
 <ul><li className=' font-bold'>University of Moratuwa</li></ul>
-  <li>Python for Beginners <a href='./MyPortfolio/PY.pdf' className='ml-[12%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a>  </li>
-  <li> Web Design for Beginners<a href='./WD.pdf' className='ml-[0%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
-  <li> Front-End Web Design<a href='./FD.pdf' className='ml-[9%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
+  <li>Python for Beginners <a href='https://drive.google.com/file/d/1N8kskGG12rC_w7sxTVzB5VdYieXQbwJ-/view?usp=drive_link' className='ml-[12%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a>  </li>
+  <li> Web Design for Beginners<a href='https://drive.google.com/file/d/1kPQk19Bg8WuD-kMt5PE-6W8h8SNhE71K/view?usp=drive_link' className='ml-[0%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
+  <li> Front-End Web Design<a href='https://drive.google.com/file/d/1Ho1nEjN0ZhzWa9GGAjSS81XfkrCxzO14/view?usp=drive_link' className='ml-[9%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
 <br></br><br></br>
 <ul><li className=' font-bold'>SoloLearn</li></ul> 
-                            <li>Python <a href='./python.png' className='ml-[18%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
-                            <li> Java <a href='./java.png' className='ml-[26%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
-                            <li> JavaScript<a href='/javascript.png' className='ml-[12%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
+                            <li>Python <a href='https://drive.google.com/file/d/1kIXaHslCm1cEcyIfD1X0VnvptBcSPh8V/view?usp=drive_link' className='ml-[18%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
+                            <li> Java <a href='https://drive.google.com/file/d/1xuYD-NY4hmukUFfS077Q7DTtkXnWNl28/view?usp=drive_link' className='ml-[26%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
+                            <li> JavaScript<a href='https://drive.google.com/file/d/1ikwZIr8Z2xbm8j0C5nr2JcaT3hxNK0NE/view?usp=drive_link' className='ml-[12%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
    
-  <li> SQL<a href='./sql.png' className='ml-[28%] pl-[5px] pr-[5px]   text-green-600 font-mono font-bold rounded-md'>view</a></li>
+  <li> SQL<a href='https://drive.google.com/file/d/11BYAeP4fL8wMp66DZOCeerXSIGsgMCJ0/view?usp=drive_link' className='ml-[28%] pl-[5px] pr-[5px]   text-green-600 font-mono font-bold rounded-md'>view</a></li>
  
-  <li> HTMLS<a href='https://drive.google.com/file/d/17NGN873bzdHVRTvgHMxhhZbniH9474qx/view?usp=drive_link' className='ml-[23%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
+  <li> HTMLS<a href='https://drive.google.com/file/d/19oCEPB009KuKcEd-t4xm9tcUBWV2XYiS/view?usp=drive_link' className='ml-[23%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
   
 
   
@@ -196,7 +196,7 @@ I have successfully enhanced my skills and knowledge through various certificati
 These certifications highlight my proficiency in both foundational and advanced concepts across multiple programming languages and web development technologies.
                     </p>
                     
-                   <div className='flex items-center justify-center'><a href='./CV.pdf'> <button className=' bg-blue-700 border-2 border-blue-700 rounded-lg text-white p-[10px] mt-[20px]'>VIEW MY CV</button></a></div>
+                   <div className='flex items-center justify-center'><a href='https://drive.google.com/file/d/1tsa5Zb1snXpOlI_jJDShOgQ8CVlpLj9m/view?usp=sharing'> <button className=' bg-blue-700 border-2 border-blue-700 rounded-lg text-white p-[10px] mt-[20px]'>VIEW MY CV</button></a></div>
 
                     </div>
 
