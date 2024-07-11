@@ -175,7 +175,7 @@ I have successfully enhanced my skills and knowledge through various certificati
  <div className='flex '> <div className='ml-[10%]'>                     
 <ul><li className=' font-bold'>University of Moratuwa</li></ul>
   <li>Python for Beginners <a href='https://drive.google.com/file/d/1N8kskGG12rC_w7sxTVzB5VdYieXQbwJ-/view?usp=drive_link' className='ml-[12%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a>  </li>
-  <li> Web Design for Beginners<a href='https://drive.google.com/file/d/1kPQk19Bg8WuD-kMt5PE-6W8h8SNhE71K/view?usp=drive_link' className='ml-[0%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
+  <li> Web Design for Beginners <a href='https://drive.google.com/file/d/1kPQk19Bg8WuD-kMt5PE-6W8h8SNhE71K/view?usp=drive_link' className='ml-[0%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
   <li> Front-End Web Design<a href='https://drive.google.com/file/d/1Ho1nEjN0ZhzWa9GGAjSS81XfkrCxzO14/view?usp=drive_link' className='ml-[9%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
 <br></br><br></br>
 <ul><li className=' font-bold'>SoloLearn</li></ul> 
