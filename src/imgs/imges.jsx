@@ -15,6 +15,8 @@ import gmail from './gmail.webp'
 import phone from './phone.png'
 import whats from './whats.png'
 import git10 from './git10.png'
+import sideIcon from './sidebar1.png'
+import sideIcon1 from './sidebar2.png'
 
 
 
@@ -35,6 +37,8 @@ const Imgs = {
     skill4,
     iam,
     git10,
+    sideIcon,
+    sideIcon1
 
 
 }

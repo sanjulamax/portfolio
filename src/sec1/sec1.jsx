@@ -31,7 +31,7 @@ function Sec1() {
                     <div id={aboutMe} className="max-sm:w-[95%] shadow-xl shadow-gray-400 border-2 border-black inline-flex w-[50%] flex-col m-[2%] mt-[3%] p-[10px] ">
                             <h1  className="  font-bold text-[25px] flex items-center justify-center">Who Am I</h1><br></br>
                         <p  className="  max-sm:w-[100%]  text-[18px]  max-sm:text-wrap max-sm:whitespace-break-spaces">
-                            Hi, I'm Savindu Abeywickrama, a 22-year-old undergraduate student at the Open University of Sri Lanka, specializing in Software Engineering.<br></br><br></br> My journey in technology began with a fascination for how software can transform ideas into reality.I am skilled in a variety of programming languages including Java, Python, and JavaScript. <br></br><br></br>I also have experience with web development frameworks like React and Angular, and backend technologies such as Node.js and php . <br></br><br></br> My areas of interest include web development, artificial intelligence, and mobile application development. I am particularly enthusiastic about exploring how AI can be integrated into everyday applications to enhance user experience.
+                        🔥 Hi, I'm Savindu Abeywickrama, a 22-year-old undergraduate student at the Open University of Sri Lanka, specializing in Software Engineering.<br></br><br></br>🔥 My journey in technology began with a fascination for how software can transform ideas into reality.I am skilled in a variety of programming languages including Java, Python, and JavaScript. <br></br><br></br>🔥I also have experience with web development frameworks like React and Angular, and backend technologies such as Node.js and php . <br></br><br></br>🔥 My areas of interest include web development, artificial intelligence, and mobile application development. I am particularly enthusiastic about exploring how AI can be integrated into everyday applications to enhance user experience.
                         </p>
 
                     </div>
@@ -177,6 +177,8 @@ I have successfully enhanced my skills and knowledge through various certificati
   <li>Python for Beginners <a href='https://drive.google.com/file/d/1N8kskGG12rC_w7sxTVzB5VdYieXQbwJ-/view?usp=drive_link' className='ml-[12%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a>  </li>
   <li> Web Design for Beginners <a href='https://drive.google.com/file/d/1kPQk19Bg8WuD-kMt5PE-6W8h8SNhE71K/view?usp=drive_link' className='ml-[0%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
   <li> Front-End Web Design<a href='https://drive.google.com/file/d/1Ho1nEjN0ZhzWa9GGAjSS81XfkrCxzO14/view?usp=drive_link' className='ml-[9%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
+   <li> Front-End Web Design<a href='https://drive.google.com/file/d/1Ho1nEjN0ZhzWa9GGAjSS81XfkrCxzO14/view?usp=drive_link' className='ml-[9%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
+   <li> Server-Side Web Programing <a href='https://drive.google.com/file/d/1v2LFyfp-4VIpR2Sh8WNdD3B_YxmZFmGF/view?usp=sharing' className='ml-[9%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
 <br></br><br></br>
 <ul><li className=' font-bold'>SoloLearn</li></ul> 
                             <li>Python <a href='https://drive.google.com/file/d/1kIXaHslCm1cEcyIfD1X0VnvptBcSPh8V/view?usp=drive_link' className='ml-[18%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
@@ -185,7 +187,7 @@ I have successfully enhanced my skills and knowledge through various certificati
    
   <li> SQL<a href='https://drive.google.com/file/d/11BYAeP4fL8wMp66DZOCeerXSIGsgMCJ0/view?usp=drive_link' className='ml-[28%] pl-[5px] pr-[5px]   text-green-600 font-mono font-bold rounded-md'>view</a></li>
  
-  <li> HTMLS<a href='https://drive.google.com/file/d/19oCEPB009KuKcEd-t4xm9tcUBWV2XYiS/view?usp=drive_link' className='ml-[23%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
+  <li> HTMLS<a href='https://drive.google.com/file/d/19oCEPB009KuKcEd-t4xm9tcUBWV2XYiS/view?usp=drive_link' className='ml-[20%] pl-[5px] pr-[5px]  text-green-600 font-mono font-bold rounded-md'>view</a></li>
   
 
   

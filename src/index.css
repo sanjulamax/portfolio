@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-  background: radial-gradient(circle, #021834, #151528);
+  background: url("./imgs/BC1.jpg") fixed;
 }

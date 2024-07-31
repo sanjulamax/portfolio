@@ -42,9 +42,9 @@ function Body() {
 
                 <img className=" max-sm:w-[130px] max-sm:h-[130px] max-sm:left-[2%] max-sm:bottom-[-50px] relative left-[-3%] bottom-10 mr-[5%] border-2 rounded-full w-[300px] h-[300px] shadow-custom-glow  " src={Imgs.profilePic}></img>
                
-                <FontAwesomeIcon onClick={()=>Myscroll(aboutMe)} className=" max-sm:top-[630px] max-sm:left-[40%] h-[40px] absolute left-[12%] top-96" icon={faAnglesDown} bounce size="2xl" />
+                <FontAwesomeIcon onClick={()=>Myscroll(aboutMe)} className=" max-sm:top-[630px] max-sm:left-[40%] h-[40px] absolute left-[11%] top-96" icon={faAnglesDown} bounce size="2xl" />
                 
-               <h1 className=" max-sm:text-[25px]  max-sm:top-[-80px] max-sm:left-[41%]  border-red-400  mr-[5%] text-[60px] whitespace-break-spaces text-wrap relative left-[0%] bottom-14 p-[10px] font-semibold text"> HI , 
+               <h1 className=" max-sm:text-[25px]  max-sm:top-[-70px] max-sm:left-[41%]  border-red-400  mr-[5%] text-[60px] whitespace-break-spaces text-wrap relative left-[0%] bottom-14 p-[10px] font-semibold text"> HI , 
                     I AM SAVINDU ABEYWICKRAMA </h1>
                 
                 <div className=" max-sm:text-[15px] max-sm: max-sm:w-screen max-sm:right-[150%] max-sm:top-[50px] max-sm:ml-[-4%] max-sm:pl-[3px] max border-l-2 h-min   border-red-400  whitespace-break-spaces text-wrap relative bottom-14 left-[0%] pl-[30px] font-normal text-[25px]"><ol>
